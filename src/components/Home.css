@@ -1,0 +1,14 @@
+.home-container {
+    text-align: center;
+  }
+  
+  .home-link {
+    text-decoration: none;
+    color: #ef8585;
+    font-weight: bold;
+  }
+  
+  .home-link:hover {
+    color: #ffcc00;
+  }
+  
